@@ -96,6 +96,13 @@ img{
 	margin-left:2px;
 }
 
+.content .detail {
+	margin-left:47px;
+	padding-bottom: 15px;
+	font-size:15px;
+	color: rgb(107, 47, 47);
+}
+
 .content .map:hover {
 	color:rgb(245, 11, 11);
 }
